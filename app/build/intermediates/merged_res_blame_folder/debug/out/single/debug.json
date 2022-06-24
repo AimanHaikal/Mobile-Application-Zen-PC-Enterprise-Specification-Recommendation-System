@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_add_psuactivity.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_add_psuactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_add_cpuactivity.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_add_cpuactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_generate_build_pcactivity.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_generate_build_pcactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_change_pcpart.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_change_pcpart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_list_item_cpu.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\list_item_cpu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_view_gpuactivity.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_view_gpuactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable-mdpi_ic_baseline_people_alt_24.png.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-pngs-31:\\drawable-mdpi\\ic_baseline_people_alt_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_add_cpucooling.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_add_cpucooling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_update_profile.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_update_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable-xhdpi_ic_baseline_people_alt_24.png.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-pngs-31:\\drawable-xhdpi\\ic_baseline_people_alt_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_login.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_view_cpuactivity.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_view_cpuactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_add_ramactivity.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_add_ramactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-pngs-31:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\menu_zenmenu.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\menu\\zenmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable_ic_zenpcsplash.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\drawable\\ic_zenpcsplash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_add_case.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_add_case.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable-hdpi_ic_baseline_people_alt_24.png.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-pngs-31:\\drawable-hdpi\\ic_baseline_people_alt_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable-ldpi_ic_baseline_people_alt_24.png.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-pngs-31:\\drawable-ldpi\\ic_baseline_people_alt_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable-xxhdpi_ic_baseline_people_alt_24.png.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-pngs-31:\\drawable-xxhdpi\\ic_baseline_people_alt_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_view_cpucooling.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_view_cpucooling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_add_motherboard.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_add_motherboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_view_ramactivity.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_view_ramactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable-xxxhdpi_ic_baseline_people_alt_24.png.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-pngs-31:\\drawable-xxxhdpi\\ic_baseline_people_alt_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_build_pcactivity.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_build_pcactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_view_case.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_view_case.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_add_storage.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_add_storage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_view_storage.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_view_storage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_view_products.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_view_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_profile.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_view_psuactivity.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_view_psuactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_view_motherboard.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_view_motherboard.xml"
+    },
+    {
+        "merged": "com.example.zenpcenterprise.app-merged_res-36:/layout_activity_generate_build_pcactivity.xml.flat",
+        "source": "com.example.zenpcenterprise.app-main-38:/layout/activity_generate_build_pcactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\drawable-anydpi-v24_ic_baseline_people_alt_24.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-pngs-31:\\drawable-anydpi-v24\\ic_baseline_people_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_add_gpuactivity.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_add_gpuactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_staff_home.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_staff_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-merged_res-36:\\layout_activity_add_products.xml.flat",
+        "source": "C:\\Users\\Aiman Haikal\\.gradle\\daemon\\7.3.3\\com.example.zenpcenterprise.app-main-38:\\layout\\activity_add_products.xml"
+    }
+]
