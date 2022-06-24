@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zen PC Enterprise</string>
+    <string name="zen_pc_enterprise">Zen PC Enterprise</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
