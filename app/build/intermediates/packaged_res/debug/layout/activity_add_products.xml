@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddProductsActivity">
+
+    <Button
+        android:id="@+id/addGPUButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add GPU"
+        android:onClick="addGPU"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.167"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.475"
+        tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/addRAMButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add RAM"
+        android:onClick="addRAM"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.844"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.319"
+        tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/addMotherboardButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Motherboard"
+        android:onClick="addMotherboard"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.07"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.319"
+        tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/addCPUCoolingButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add CPU Cooling"
+        android:onClick="addCPUCooling"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.933"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.162"
+        tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/addCPUButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add CPU"
+        android:onClick="addCPU"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.167"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.162"
+        tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/addStorageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Storage"
+        android:onClick="addStorage"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.886"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.475"
+        tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:onClick="backButton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.167"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.787"
+        tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/addCaseButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Case"
+        android:onClick="addCase"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.864"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.635"
+        tools:ignore="HardcodedText,UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/addPSUButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add PSU"
+        android:onClick="addPSU"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.167"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.635"
+        tools:ignore="HardcodedText,UsingOnClickInXml" />
+</androidx.constraintlayout.widget.ConstraintLayout>
